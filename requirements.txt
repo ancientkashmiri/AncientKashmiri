@@ -5,4 +5,4 @@ geopy>=2.4.0
 swisseph>=2.10.3
 kerykeion>=4.0.0
 requests>=2.32.0
-timezonefinder>=2.32.0
+timezonefinder>=6.5.0
