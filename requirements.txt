@@ -1,0 +1,7 @@
+streamlit>=1.30.0
+ephem>=4.1
+pytz>=2024.1
+geopy>=2.4.0
+swisseph>=0.0.0.dev1
+kerykeion>=4.0.0
+requests>=2.31.0
