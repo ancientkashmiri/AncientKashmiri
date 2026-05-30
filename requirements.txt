@@ -1,8 +1,4 @@
 streamlit>=1.35.0
-ephem>=4.1
-pytz>=2024.1
-geopy>=2.4.0
-swisseph>=2.10.3
-kerykeion>=4.0.0
-requests>=2.32.0
+swisseph>=0.0.0.dev1
 timezonefinder>=6.5.0
+requests>=2.32.0
