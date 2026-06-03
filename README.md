@@ -1,5 +1,3 @@
-# प्राचीन कश्मीर · Prācīna Kashmira
-
 Ancient Kashmiri Knowledge Portal — Streamlit Application
 
 ## Setup & Run
